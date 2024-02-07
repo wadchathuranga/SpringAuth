@@ -1,6 +1,6 @@
 package com.novaexplore.springauth.repository;
 
-import com.novaexplore.springbootauth.entity.User;
+import com.novaexplore.springauth.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

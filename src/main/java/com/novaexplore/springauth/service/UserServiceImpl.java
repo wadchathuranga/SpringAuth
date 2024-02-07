@@ -1,8 +1,8 @@
 package com.novaexplore.springauth.service;
 
-import com.novaexplore.springbootauth.entity.User;
-import com.novaexplore.springbootauth.model.UserModel;
-import com.novaexplore.springbootauth.repository.UserRepository;
+import com.novaexplore.springauth.entity.User;
+import com.novaexplore.springauth.model.UserModel;
+import com.novaexplore.springauth.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
